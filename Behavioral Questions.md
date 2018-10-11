@@ -9,7 +9,7 @@
 
 - Give me an example of a time you faced a conflict while working on a team. How did you handle that?
 
-   Planning meeting for feature when we were nearing the final stretch - Feature wasn't ready to ship - Reporting product, the data was wrong, not all features in the milestone were complete - Team member demanded we ship to the customer or he'd walk out on the job - Took person aside at talked aboutthat wasn't fair to do to the team - The feature wasn't ready to ship and this was the milestone we all agreed upon as a team - Asked them to cool off and come back to the discussion with a level head - It's totally ok to disagree but we need to come at it with a productive attitude
+   Planning meeting for feature when we were nearing the final stretch - Feature wasn't ready to ship - Reporting product, the data was wrong, not all features in the milestone were complete - Team member demanded we ship to the customer or he'd walk out on the job - Took person aside at talked about how that wasn't fair to do to the team - The feature wasn't ready to ship and this was the milestone we all agreed upon as a team - Asked them to cool off and come back to the discussion with a level head - It's totally ok to disagree but we need to come at it with a productive attitude
 
 - Describe a time when you struggled to build a relationship with someone important. How did you eventually overcome that?
 
