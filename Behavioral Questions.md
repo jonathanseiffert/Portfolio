@@ -49,7 +49,7 @@
 
 - Tell me about a time you were under a lot of pressure. What was going on, and how did you get through it?
 
-   Right now! - Building SaaS channel management product - Wrapping up beta and launch cloud pricing to a high-revenue client - Defining roadmap for next year with internal stakeholders - Working with another high-revenue customer on gathering their needs for roadmap - Asked to do some additional tasks like a full competitive analysis at same time - Discussed with my supervisor (CEO) that there were a lot of critical tasks on my plate and we needed to discuss the priority of the competitive analysis vs the other tasks - The team is really dependent on me for requirements to meet our core product goals - Decided this task was less important than other tasks and discussed options like dividing up the task and assigning out to key people in the office
+   Right now! - Building SaaS channel management product - Wrapping up beta and launch cloud pricing to a high-revenue client - Defining roadmap for next year with internal stakeholders - Working with another high-revenue customer on gathering their needs for roadmap - Asked to do some additional tasks like a full competitive analysis at same time - Discussed with my supervisor (CEO) that there were a lot of critical tasks on my plate and we needed to discuss the priority of the competitive analysis vs the other tasks - The team is really dependent on me for requirements to meet our core product goals - Decided this task was less important than other tasks and discussed options like dividing up the task and assigning out to key people in the office - Agreed on priorities
 
 - Describe a time when your team or company was undergoing some change. How did that impact you, and how did you adapt?
 
